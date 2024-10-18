@@ -26,13 +26,13 @@ This project is ideal for beginners and developers who want a quick, interactive
 ### Cloning the Repository
 To clone this repository, run:
 ```bash
-https://github.com/TAQNK/WeatherScrapperProject.git
+https://github.com/TAQNK/codePen.git
 ```
 
 ### Running Locally
 Once cloned, follow these steps to run the project locally:
 ```bash
-$ cd WeatherScrapperProject
+$ cd codePen
 $ open index.html
 ```
 
